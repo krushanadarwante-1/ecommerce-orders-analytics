@@ -219,3 +219,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.ipynb_checkpoints/
+.vscode/
+.anaconda/
+.jupyter/
+*.log
+*.tmp
+
